@@ -1,0 +1,6 @@
+https://github.com/Microsoft-USEduAzure/workshops/tree/master/powerbi-report-in-an-hour
+
+
+get your data from the web and then paste these links
+data 1- https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_confirmed_usafacts.csv
+data 2-https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_deaths_usafacts.csv
